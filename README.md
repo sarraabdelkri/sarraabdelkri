@@ -1,6 +1,6 @@
 
 
-👋 Hi, I’m @sarraabdelkri
+👋 Hi, I’m @sarraabdelkrim
 
 
 🔭 I’m currently studing  in @ESPRIT
