@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm sarra Ibn Abdelkrim</h1>
 - 🔭I'm currently studying in **@ESPRIT**
 
-- 🌱 I’m currently learning **Angular,SpringBoot**
+- 🌱 I’m currently learning **Angular,SpringBoot, React Node js **
 
 - 📫 How to reach me **Sarraabdelkrim88@gmail.com**
 
